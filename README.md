@@ -10,4 +10,4 @@ In the main directory, a Snakemake file (`rescale_to_reference.smk`) was created
 snakemake --snakefile rescale_to_reference.smk generated_demo/comparison_graph_demo.png -j1
 ```
 
-In this example, "demo" is the sample name, which can be replaced with any sample name as needed.# rescale_to_reference
+In this example, "demo" is the sample name, which can be replaced with any sample name as needed
